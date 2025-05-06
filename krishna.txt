@@ -1,1 +1,2 @@
 this is logfile
+this is line2
